@@ -25,7 +25,16 @@
   "keywords": [
     "compute.io",
     "compute",
-    "computation"
+    "computation",
+    "max",
+    "array",
+    "length",
+    "uint32",
+    "integer",
+    "unsigned",
+    "32-bit",
+    "const",
+    "constant"
   ],
   "bugs": {
     "url": "https://github.com/compute-io/const-max-uint32/issues"

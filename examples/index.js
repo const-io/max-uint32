@@ -1,3 +1,5 @@
 'use strict';
 
-var foo = require( './../lib' );
+var MAX_UINT32 = require( './../lib' );
+
+console.log( MAX_UINT32 );
