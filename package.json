@@ -1,6 +1,6 @@
 {
   "name": "const-max-uint32",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Maximum unsigned 32-bit integer.",
   "author": {
     "name": "Athan Reines",
