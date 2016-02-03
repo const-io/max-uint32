@@ -8,14 +8,14 @@ Max Uint32
 ## Installation
 
 ``` bash
-$ npm install compute-const-max-uint32
+$ npm install const-max-uint32
 ```
 
 
 ## Usage
 
 ``` javascript
-var MAX_UINT32 = require( 'compute-const-max-uint32' );
+var MAX_UINT32 = require( 'const-max-uint32' );
 ```
 
 #### MAX_UINT32
@@ -35,7 +35,7 @@ MAX_UINT32 === Math.pow( 2, 32 ) - 1;
 ## Examples
 
 ``` javascript
-var MAX_UINT32 = require( 'compute-const-max-uint32' );
+var MAX_UINT32 = require( 'const-max-uint32' );
 
 console.log( MAX_UINT32 );
 // returns 4294967295
@@ -105,8 +105,8 @@ $ make view-browser-tests
 Copyright &copy; 2015-2016. The [Compute.io][compute-io] Authors.
 
 
-[npm-image]: http://img.shields.io/npm/v/compute-const-max-uint32.svg
-[npm-url]: https://npmjs.org/package/compute-const-max-uint32
+[npm-image]: http://img.shields.io/npm/v/const-max-uint32.svg
+[npm-url]: https://npmjs.org/package/const-max-uint32
 
 [build-image]: http://img.shields.io/travis/const-io/max-uint32/master.svg
 [build-url]: https://travis-ci.org/const-io/max-uint32
